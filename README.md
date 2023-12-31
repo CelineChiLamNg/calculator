@@ -51,6 +51,6 @@ Please enter number 1/2/3
 Calculator ended
 
 
-4. Dependencies: unittest
+4. Dependencies: no dependencies needed
 
 
